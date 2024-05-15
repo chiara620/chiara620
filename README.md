@@ -1,7 +1,7 @@
-- 👋 Hi, I’m (I think therefore I am)
-- 👀 I’m interested in existing 
-- 🌱 I’m currently learning being alive
-- 💞️ I’m not  looking to collaborate
+- 👋 Hi, I am (Socrates said)
+- 👀 I’m interested in being alive
+- 🌱 I’m currently learning how to
+- 💞️ I’m not looking to collaborate
 - 📫 Please don't reach me
   
 - ⚡ Fun fact: grain 🌾 has more DNA 🧬 than humans 🤸🏿‍♀️
