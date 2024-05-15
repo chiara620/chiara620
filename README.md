@@ -4,7 +4,7 @@
 - 💞️ I’m not  looking to collaborate
 - 📫 Please don't reach me
   
-- ⚡ Fun fact: grain has more DNA than humans
+- ⚡ Fun fact: grain 🌾 has more DNA 🧬 than humans 🤸🏿‍♀️
 
 <!---
 chiara620/chiara620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
