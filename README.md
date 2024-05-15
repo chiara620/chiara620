@@ -1,4 +1,4 @@
-- 👋 Hi, I am (Socrates said)
+- 👋 Hi, I am (Descartes said)
 - 👀 I’m interested in being alive
 - 🌱 I’m currently learning how to
 - 💞️ I’m not looking to collaborate
