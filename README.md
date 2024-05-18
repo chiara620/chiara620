@@ -1,10 +1,10 @@
-- 👋 Hi, I am (Descartes said)
+- 👋 Hi, I am (or so Descartes said)
 - 👀 I’m interested in being alive
-- 🌱 I’m currently learning how to
+- 🌱 ... and I’m currently learning how to
 - 💞️ I’m not looking to collaborate
 - 📫 Please don't reach me
   
-- ⚡ Fun fact: grain 🌾 has more DNA 🧬 than humans 🤸🏿‍♀️
+- ⚡ Fun fact: you're adopted
 
 <!---
 chiara620/chiara620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
