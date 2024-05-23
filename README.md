@@ -1,10 +1,11 @@
-- 👋 Hi, I am (or so Descartes said)
-- 👀 I’m interested in being alive
-- 🌱 ... and I’m currently learning how to
+- 👋 Hi, I am a fairy
+- 👀 I usually spend my time collecting seeds and flying on sunflower fields
+- 🧚🏻‍♀️ If you see me around, feel free to say hi
+- 
 - 💞️ I’m not looking to collaborate
-- 📫 Please don't reach me
+- 📫 Please, don't reach me
   
-- ⚡ Fun fact: you're adopted
+- ⚡ Fun fact: you're adopted :3
 
 <!---
 chiara620/chiara620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
