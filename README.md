@@ -1,10 +1,8 @@
 - 👋 Hi, I am a fairy
-- 👀 I usually spend my time collecting seeds and flying on sunflower fields
+- 👀 I spend my time collecting seeds and flying on sunflower fields
 - 🧚🏻‍♀️ If you see me around, feel free to say hi
-  
 - 💞️ I’m not looking to collaborate
 - 📫 Please, don't reach me
-
 - ⚡ Fun fact: you're adopted :3
 
 <!---
